@@ -2,12 +2,12 @@
 
 ## Workspace
 
-## Dataset 
-
-## Environment
+## Pipeline 
 
 ## Compute target 
 
-## Model
+## Environment
 
-## Pipeline 
+## Dataset 
+
+## Model
