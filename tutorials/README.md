@@ -6,7 +6,7 @@ Azure Machine Learning can be used for any kind of machine learning, from classi
 
 This folder contains a collection of Jupyter Notebooks with the code used in accompanying step-by-step tutorials.
 
-## Set up your environment.
+## Set up your environment
 
 If you are using an Azure Machine Learning Notebook VM, everything is already set up for you. Otherwise, see the [get started creating your first ML experiment with the Python SDK tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-setup).
 

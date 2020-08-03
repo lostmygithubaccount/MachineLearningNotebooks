@@ -4,17 +4,21 @@ This repository contains example notebooks demonstrating the [Azure Machine Lear
 
 ![Azure ML Workflow](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/master/articles/machine-learning/media/concept-azure-machine-learning-architecture/workflow.png)
 
-
 ## Quick installation
+
 ```sh
 pip install azureml-sdk
+git clone https://github.com/Azure/MachineLearningNotebooks
 ```
 
-## Concepts 
+## Concepts
+
 Azure ML concepts and API guides. See the [concepts](concepts) folder.
 
-## Examples 
+## Examples
+
 Azure ML examples for training and deploying ML models. See the [examples](examples) folder.
 
-## Tutorials 
-Azure ML tutorials. See the [tutorials](tutorials) folder. 
+## Tutorials
+
+Azure ML tutorials. See the [tutorials](tutorials) folder.
