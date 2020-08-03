@@ -42,8 +42,6 @@ dstore = ws.datastores['my-datastore']
 
 Compute targets are preconfigured in the [setup.ipynb](setup.ipynb) notebook named `cpu-cluster` and `gpu-cluster`. Use these compute targets in notebooks. 
 
-## Conventions
-
 ### Remote runs
 
 Estimators should not be used. Instead, a `ScriptRunConfig` should be used with a curated Azure ML Environment. Datasets should be used.  
