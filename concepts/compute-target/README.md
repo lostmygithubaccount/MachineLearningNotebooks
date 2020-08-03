@@ -8,4 +8,4 @@ See this [API notebook](compute-instance-api.ipynb) for Azure ML Compute Instanc
 
 ## Azure ML Compute 
 
-See this [API notebook](azureml-compute-api.ipynb) for Azure ML Compute Cluster.
+See this [API notebook](azureml-compute-api.ipynb) for Azure ML Compute.
