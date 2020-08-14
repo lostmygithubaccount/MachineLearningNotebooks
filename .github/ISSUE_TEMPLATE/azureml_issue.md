@@ -1,13 +1,13 @@
 ---
-name: Notebook issue 
-about: Report an issue with an example notebook
+name: Azure ML issue 
+about: Report an issue with Azure ML
 title: ''
-labels: 'notebook issue'
+labels: 'azureml issue'
 assignees: ''
 
 ---
-**Which notebook?**
-Which notebook is the issue in? 
+**Which package(s)?**
+Which parts of Azure ML or package(s) are you experiencing the issue with? 
 
 **Describe the issue**
 A clear and concise description of what the issue is.
