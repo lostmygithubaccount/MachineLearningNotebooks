@@ -2,7 +2,7 @@
 name: Notebook issue 
 about: Create a report to help us improve
 title: ''
-labels: 'notebook, issue'
+labels: notebook, issue
 assignees: ''
 
 ---
